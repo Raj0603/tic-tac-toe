@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 After cloning this project to your local device 
 Open terminal and run command
-flutter pub get
+# flutter pub get
 It will get all the dependencies and then ru  the project.
 
 A few resources to get you started if this is your first Flutter project:
